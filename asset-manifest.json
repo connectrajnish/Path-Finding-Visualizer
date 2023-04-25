@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/connectrajnish/Path-Finding-Visualizer.git/static/css/main.fae3927f.css",
+    "main.js": "/connectrajnish/Path-Finding-Visualizer.git/static/js/main.fefaa591.js",
+    "static/js/787.28cb0dcd.chunk.js": "/connectrajnish/Path-Finding-Visualizer.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/connectrajnish/Path-Finding-Visualizer.git/index.html",
+    "main.fae3927f.css.map": "/connectrajnish/Path-Finding-Visualizer.git/static/css/main.fae3927f.css.map",
+    "main.fefaa591.js.map": "/connectrajnish/Path-Finding-Visualizer.git/static/js/main.fefaa591.js.map",
+    "787.28cb0dcd.chunk.js.map": "/connectrajnish/Path-Finding-Visualizer.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fae3927f.css",
+    "static/js/main.fefaa591.js"
+  ]
+}

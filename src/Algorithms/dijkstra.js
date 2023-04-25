@@ -3,8 +3,8 @@
 // previous node, effectively allowing us to compute the shortest path
 // by backtracking from the finish node.
 export function dijkstra(grid, startNode, finishNode) {
-    if(!startNode || !finishNode || startNode===finishNode)
-      return false; 
+    // if(!startNode || !finishNode || startNode===finishNode)
+    //   return false; 
 
     const visitedNodesInOrder = [];
     startNode.distance = 0;
